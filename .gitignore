@@ -35,3 +35,10 @@ sysinfo.txt
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+$RECICLE.BIN/

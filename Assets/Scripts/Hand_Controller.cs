@@ -12,8 +12,8 @@ public class Hand_Controller : MonoBehaviour {
 	void Start () {
 
 		//Sink_Water sink = GameObject.Find ("Sink").GetComponent ("Sink_Water") as Sink_Water;
-		Ray ray = Camera.main.ScreenPointToRay(Camera.main.ScreenToWorldPoint(Input.mousePosition));
-		RaycastHit hit;
+		//Ray ray = Camera.main.ScreenPointToRay(Camera.main.ScreenToWorldPoint(Input.mousePosition));
+		//RaycastHit hit;
 
 	}
 	
